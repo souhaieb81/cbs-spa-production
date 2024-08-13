@@ -1,0 +1,3 @@
+FROM nginx
+COPY dist\cbs-spa-production\browser\index.html /user/share/ngnix/html
+EXPOSE 80

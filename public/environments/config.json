@@ -1,0 +1,7 @@
+{
+    "API": {
+        "URL": {
+            "AUTHENTICATION": "http://localhost:8080/api/auth/"
+        }
+    }
+}
